@@ -1,0 +1,11 @@
+# automatically
+
+Items: {
+    Example: {
+        DisplayName: Example
+        Tooltip:
+            '''
+            Example
+            '''
+    }
+}
