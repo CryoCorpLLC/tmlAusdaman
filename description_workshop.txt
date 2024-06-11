@@ -1,6 +1,6 @@
-# Ausdaman
+<h1> Ausdaman </h1>
 
-### ✍️ [Contact Me](femboyattack.t.me) <br><br>
+<h3> [url=https://femboyattack.t.me]Contact Me[/url] </h3> <br><br>
 
 The mod is a kind of experiment in the field of indie development, as well as a place where i develop my imagination
 
@@ -17,6 +17,5 @@ Music Credits:
 - SeyNoe
 - vertigoaway
 - psychoangel
-<!--Loli in early 20s-->
 
 Code Credits: FemboyAttack
